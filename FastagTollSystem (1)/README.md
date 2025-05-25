@@ -59,8 +59,7 @@ git clone <your-repo-link>
 5. Run `LoginForm.java` to launch the GUI.
 
 ## Contributors
-- Your Name
-- Team Members (if any)
-
-## License
-This project is for educational purposes.
+- Kanishk Varshney
+- Mayank kumar
+- Rahul kumar
+- Aashutosh kumar
