@@ -42,21 +42,12 @@ CREATE TABLE users (
 );
 ```
 
-2. Insert a test user (optional):
-```sql
-INSERT INTO users (username, password) VALUES ('admin', 'admin123');
-```
-
-## How to Run
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
-```
-
-2. Open the project in your IDE (Eclipse/IntelliJ).
-3. Make sure you have MySQL running and the database created.
-4. Update DB credentials in `DBConnection.java`.
-5. Run `LoginForm.java` to launch the GUI.
+   🔄 Review 2 Updates
+- MySQL DB added (see /MySQL_DB/db_schema.sql)
+- GUI validation and error handling
+- Screenshots added
+- PPT file linked
+   
 
 ## Contributors
 - kanishk Varshney
